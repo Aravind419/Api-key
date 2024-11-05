@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBPUQk7hYeqlH9MkiJppCNItT6DriqJsP4",
+  authDomain: "temp-88bd0.firebaseapp.com",
+  databaseURL: "https://temp-88bd0-default-rtdb.firebaseio.com",
+  projectId: "temp-88bd0",
+  storageBucket: "temp-88bd0.firebasestorage.app",
+  messagingSenderId: "424598832400",
+  appId: "1:424598832400:web:29b59c6d30ad6ead615195",
+  measurementId: "G-3EW504X003"
+};
